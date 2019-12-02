@@ -16,6 +16,8 @@ Connect to the garage door controllers
 - [Thread](https://community.hubitat.com/t/garadget-support/1560/18)
 ### Better Laundry
 Notify me when the laundry is done
+
+Some Custom changes made to this app, only alert if power threshold is above for length of time, change so push notifications happen
 - Submodule: betterLaundry
 - Apps: Better Laundry Monitor.groovy
 - Drivers: None
@@ -34,3 +36,10 @@ Set so switches can act together (master/slave switches etc)
 - Apps: Switch Bindings Instance / Switch bindings
 - Drivers: None
 - [Thread](https://community.hubitat.com/t/release-switch-bindings/9012)
+
+## WeMo
+Connect WeMo system to Hubitat
+- Submodule: wemo
+- Apps: apps > jason0x43-wemo_connect.groovy
+- Drivers: drivers > jason0x43-wemo*
+- [Thread](https://community.hubitat.com/t/wemo-switch-and-insight-smart-plug/365/7)

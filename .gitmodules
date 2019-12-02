@@ -13,3 +13,6 @@
 [submodule "Hubitat-Switch-Bindings"]
 	path = Hubitat-Switch-Bindings
 	url = https://github.com/joelwetzel/Hubitat-Switch-Bindings
+[submodule "wemo"]
+	path = wemo
+	url = https://github.com/jason0x43/hubitat
