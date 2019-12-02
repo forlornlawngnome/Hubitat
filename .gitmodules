@@ -1,3 +1,6 @@
 [submodule "konnected-security"]
 	path = konnected-security
 	url = https://github.com/konnected-io/konnected-security
+[submodule "garadget"]
+	path = garadget
+	url = https://github.com/jrfarrar/hubitat
