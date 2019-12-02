@@ -4,3 +4,6 @@
 [submodule "garadget"]
 	path = garadget
 	url = https://github.com/jrfarrar/hubitat
+[submodule "betterLaundry"]
+	path = betterLaundry
+	url = https://github.com/chrisuthe/HubitatDevices
