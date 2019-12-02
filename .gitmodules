@@ -10,3 +10,6 @@
 [submodule "bptworld"]
 	path = bptworld
 	url = https://github.com/bptworld/Hubitat/
+[submodule "Hubitat-Switch-Bindings"]
+	path = Hubitat-Switch-Bindings
+	url = https://github.com/joelwetzel/Hubitat-Switch-Bindings

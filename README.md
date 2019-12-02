@@ -23,6 +23,14 @@ Notify me when the laundry is done
 
 ### Lighting Effects
 Allows color changing etc of lights (Cabinet light color change)
-- Apps: bptworld > Apps > Lighting Effects > LE Child/LE Parent
-- Drivers: None 
+- Submodule: bptworld
+- Apps: Apps > Lighting Effects > LE Child/LE Parent
+- Drivers: None
 - [Thread](https://github.com/bptworld/Hubitat/)
+
+### Switch Bindings
+Set so switches can act together (master/slave switches etc)
+- Submodule: Hubitat Switch Bindings
+- Apps: Switch Bindings Instance / Switch bindings
+- Drivers: None
+- [Thread](https://community.hubitat.com/t/release-switch-bindings/9012)
