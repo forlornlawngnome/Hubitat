@@ -37,7 +37,7 @@ Set so switches can act together (master/slave switches etc)
 - Drivers: None
 - [Thread](https://community.hubitat.com/t/release-switch-bindings/9012)
 
-## WeMo
+### WeMo
 Connect WeMo system to Hubitat
 - Submodule: wemo
 - Apps: apps > jason0x43-wemo_connect.groovy
@@ -73,5 +73,5 @@ Currently using: Inovelli Dimmer NZW31, Inovelli Switch NZW30
 ### Sony Bravia Driver
 Get info from Sony Bravia / Sony TVs
 - Submodule: sony
-- Drivers: Drivers > Sony TV Lite 
+- Drivers: Drivers > Sony TV Lite
 - [Thread](https://community.hubitat.com/t/sony-tv-driver/1336/10)
