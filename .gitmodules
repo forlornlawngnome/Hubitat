@@ -16,3 +16,15 @@
 [submodule "wemo"]
 	path = wemo
 	url = https://github.com/jason0x43/hubitat
+[submodule "zwavetool"]
+	path = zwavetool
+	url = https://github.com/hubitat/HubitatPublic
+[submodule "homeseer"]
+	path = homeseer
+	url = https://github.com/codahq/hubitat_codahq
+[submodule "inovelli"]
+	path = inovelli
+	url = https://github.com/InovelliUSA/Hubitat/
+[submodule "submodule sony"]
+	path = submodule sony
+	url = https://github.com/Botched1/Hubitat

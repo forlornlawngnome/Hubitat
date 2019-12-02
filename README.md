@@ -1,7 +1,7 @@
 # Hubitat
 
 
-## Submodules:
+## Apps:
 ### Konnected.io
 Connect to wired home security
 - Subodule: Konnected.io
@@ -43,3 +43,35 @@ Connect WeMo system to Hubitat
 - Apps: apps > jason0x43-wemo_connect.groovy
 - Drivers: drivers > jason0x43-wemo*
 - [Thread](https://community.hubitat.com/t/wemo-switch-and-insight-smart-plug/365/7)
+
+## Drivers
+### Basic Z-Wave Tool
+Adds ability to custom configure z-wave
+- Submodule: zwavetool
+- Drivers: examples > drivers > basicZwaveTool.groovy
+- [Thread](https://community.hubitat.com/t/super-basic-z-wave-parameter-tool/3477)
+
+### Dual Relay
+Allows Drivers for Dual Relay devices
+- Submodule: None
+- Drivers: In thread
+- [Thread](https://community.hubitat.com/t/virtual-switches-and-dual-relays/244/19)
+
+### Homeseer Fan Controller  
+Add controll for Homeseer Fans
+- Submodule: Homeseer
+- Drivers: devicetypes > homeseer-hs_fc200plus.groovy
+- [Thread](https://community.hubitat.com/t/release-homeseer-hs-fc200-fan-controller-driver/16813)
+### Inovelli Drivers
+Controll Inovelli devices
+
+Currently using: Inovelli Dimmer NZW31, Inovelli Switch NZW30
+- Submodule: inovelli
+- Drivers: Drivers > inovelli-switch-nz30.src
+- Drivers: Drivers > inovelli-dimmer-nzw31-w-scene
+- [Thread](https://community.hubitat.com/t/release-inovelli-device-drivers/1393)
+### Sony Bravia Driver
+Get info from Sony Bravia / Sony TVs
+- Submodule: sony
+- Drivers: Drivers > Sony TV Lite 
+- [Thread](https://community.hubitat.com/t/sony-tv-driver/1336/10)
