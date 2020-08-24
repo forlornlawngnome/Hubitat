@@ -28,3 +28,6 @@
 [submodule "submodule sony"]
 	path = submodule sony
 	url = https://github.com/Botched1/Hubitat
+[submodule "bangali"]
+	path = bangali
+	url = https://github.com/adey/bangali.git
