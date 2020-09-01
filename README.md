@@ -62,6 +62,7 @@ Add controll for Homeseer Fans
 - Submodule: Homeseer
 - Drivers: devicetypes > homeseer-hs_fc200plus.groovy
 - [Thread](https://community.hubitat.com/t/release-homeseer-hs-fc200-fan-controller-driver/16813)
+
 ### Inovelli Drivers
 Controll Inovelli devices
 
@@ -75,3 +76,9 @@ Get info from Sony Bravia / Sony TVs
 - Submodule: sony
 - Drivers: Drivers > Sony TV Lite
 - [Thread](https://community.hubitat.com/t/sony-tv-driver/1336/10)
+
+### Logitech Harmony Hub Driver
+Get IP info from Harmony Hub App  (About > Versions)
+- Submodule: logitech and ST_Anything
+- Drivers: Drivers > logitech-harmony-hub-parent.src, and HubDuino > Drivers > child-switch.groovy
+- [Thread](https://community.hubitat.com/t/release-logitech-harmony-hub-driver-v0-1-20200301/7618/539)

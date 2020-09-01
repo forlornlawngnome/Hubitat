@@ -31,3 +31,9 @@
 [submodule "bangali"]
 	path = bangali
 	url = https://github.com/adey/bangali.git
+[submodule "ST_Anything"]
+	path = ST_Anything
+	url = https://github.com/DanielOgorchock/ST_Anything.git
+[submodule "logitech"]
+	path = logitech
+	url = https://github.com/ogiewon/Hubitat.git
